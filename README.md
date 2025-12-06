@@ -80,9 +80,6 @@ You can copy-paste this into your README:
    uv tool install -e .
    ```
 
-   > ⚠️ **Note for Windows users:**
-   > If the `uvx` command isn’t recognized in LM Studio, ensure that the Python environment’s `Scripts` directory is added to your `PATH`.
-
 4. **Add MCP server to your LLM software** (example for LM Studio):
 
    ```json
