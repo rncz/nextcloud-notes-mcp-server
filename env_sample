@@ -1,0 +1,3 @@
+webdav_hostname="https://<your-nextcloud-url>/remote.php/dav/files/"
+webdav_username="your-username-here"
+webdav_password="your-password-here"
