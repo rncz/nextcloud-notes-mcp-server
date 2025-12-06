@@ -1,14 +1,10 @@
 # Nextcloud Notes MCP Server
 
----
-
 **Nextcloud Notes MCP Server** is a MCP server for the Nextcloud Notes app that lets a **Large Language Model (LLM)** do the heavy lifting for your notes.
 
 Simply tell the LLM what to do with your notes — organize, summarize, rewrite, or perform any custom task — and it will execute your instructions automatically.
 
 ## Features
-
----
 
 * 💻 **Fully Local Possible** – Run the MCP Server and LLM models entirely on your own PC; no cloud needed.
 * 🤖 **LLM-Powered Note Management** – Automate tasks like summarization, categorization, rewriting, or translations.
@@ -19,11 +15,7 @@ Sure! Here is an updated version of the **Installation** section that clearly se
 
 You can copy-paste this into your README:
 
----
-
 ## Installation
-
----
 
 ### 🐧 macOS / Linux
 
@@ -63,8 +55,6 @@ You can copy-paste this into your README:
    ```
 
 5. **Test your setup** — Use a model with tool calling enabled and ask it to access your notes.
-
----
 
 ### 🪟 Windows (PowerShell)
 
@@ -108,8 +98,6 @@ You can copy-paste this into your README:
 
 5. **Test your setup** — Ask the LLM to check WebDAV login.
 
----
-
 ### 🗂️ Nextcloud WebDAV Notes Tools (12 tools)
 
 | Tool                         | Description                                                                                |
@@ -127,5 +115,3 @@ You can copy-paste this into your README:
 | `create_category`            | Create a new category folder inside `/Notes`                                               |
 | `edit_category`              | Rename an existing category inside `/Notes`                                                |
 | `delete_category`            | Delete a category and all notes inside it                                                  |
-
----
