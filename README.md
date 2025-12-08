@@ -1,6 +1,6 @@
 # Nextcloud Notes MCP Server
 
-**Nextcloud Notes MCP Server** is a MCP server for the Nextcloud Notes app that lets a **Large Language Model (LLM)** do the heavy lifting for your notes.
+The unofficial **Nextcloud Notes MCP Server** is a MCP server for the Nextcloud Notes app that lets a **Large Language Model (LLM)** do the heavy lifting for your notes.
 
 Simply tell the LLM what to do with your notes — organize, summarize, rewrite, or perform any custom task — and it will execute your instructions automatically.
 
